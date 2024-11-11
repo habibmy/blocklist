@@ -1,1 +1,2 @@
 service.hotstar.com
+us-east1-aws.api.snapchat.com
